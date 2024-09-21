@@ -1,0 +1,74 @@
+[
+  {
+    "name": "John",
+    "lastname": "Doe",
+    "city": "New York",
+    "phone": "212-555-0101"
+  },
+  {
+    "name": "Jane",
+    "lastname": "Smith",
+    "city": "Los Angeles",
+    "phone": "310-555-0120"
+  },
+  {
+    "name": "Alice",
+    "lastname": "Johnson",
+    "city": "Chicago",
+    "phone": "312-555-0140"
+  },
+  {
+    "name": "Robert",
+    "lastname": "Brown",
+    "city": "Houston",
+    "phone": "713-555-0160"
+  },
+  {
+    "name": "Mary",
+    "lastname": "Jones",
+    "city": "Phoenix",
+    "phone": "602-555-0180"
+  },
+  {
+    "name": "Michael",
+    "lastname": "Garcia",
+    "city": "Philadelphia",
+    "phone": "215-555-0190"
+  },
+  {
+    "name": "Linda",
+    "lastname": "Martinez",
+    "city": "San Antonio",
+    "phone": "210-555-0123"
+  },
+  {
+    "name": "David",
+    "lastname": "Davis",
+    "city": "San Diego",
+    "phone": "619-555-0221"
+  },
+  {
+    "name": "Laura",
+    "lastname": "Rodriguez",
+    "city": "Dallas",
+    "phone": "214-555-0240"
+  },
+  {
+    "name": "Sarah",
+    "lastname": "Hernandez",
+    "city": "San Jose",
+    "phone": "408-555-0265"
+  },
+  {
+    "name": "James",
+    "lastname": "Lopez",
+    "city": "Austin",
+    "phone": "512-555-0277"
+  },
+  {
+    "name": "Emily",
+    "lastname": "Gonzalez",
+    "city": "Jacksonville",
+    "phone": "904-555-0289"
+  }
+]
